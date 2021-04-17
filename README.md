@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">
+<img src="https://media3.giphy.com/media/l0LHVgZQp79x2hZEA/giphy.gif">
 
 <!--
 **noobzhax/noobzhax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
